@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814583986394",
+    "project_id": "besho-shop-getx",
+    "storage_bucket": "besho-shop-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814583986394:android:9593988a83d33259468de3",
+        "android_client_info": {
+          "package_name": "com.example.shopping_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814583986394-pk2tufhico513pp03497e6i4qucsfd87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_FriT-0WyhsFAMl0p-ruW-3IVprXzVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814583986394-pk2tufhico513pp03497e6i4qucsfd87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
